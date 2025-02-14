@@ -2,8 +2,8 @@
 //It belongs to the class not the object
 
 class Mobile{
-     static String name; //Instance variable
-    int price;
+     static String name;
+    int price;  //Instance variable
     String brand;
 
   public void show(){
